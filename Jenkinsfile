@@ -1,5 +1,5 @@
 node{
- stage(“Test”){
+ stage(“test”){
   println(BRANCH_NAME)
  }
 }
